@@ -1,0 +1,42 @@
+REPORTE DE VALORACIÓN DE INVENTARIO MULTIALMACÉN
+Generado: 2026-09-25 14:33:33
+========================================================================
+VALORACIÓN TOTAL DEL INVENTARIO GLOBAL
+CODIGO     NOMBRE                          STOCK       PRECIO          VALOR
+----------------------------------------------------------------------------
+PROD01     Laptop Lenovo ThinkPad             20      2899.90       57998.00
+PROD02     Mouse Inalámbrico Logitech         30        85.00        2550.00
+PROD03     Monitor Samsung 24"                12       699.00        8388.00
+PROD04     Teclado Mecánico RGB                8       249.90        1999.20
+----------------------------------------------------------------------------
+TOTAL GLOBAL: S/ 70935.20
+
+VALORACIÓN DEL ALMACÉN ALM01 - Almacén Central Lima (Lima - Ate)
+CODIGO     NOMBRE                          STOCK       PRECIO          VALOR
+----------------------------------------------------------------------------
+PROD01     Laptop Lenovo ThinkPad             11      2899.90       31898.90
+PROD02     Mouse Inalámbrico Logitech         30        85.00        2550.00
+----------------------------------------------------------------------------
+TOTAL ALMACÉN: S/ 34448.90
+
+VALORACIÓN DEL ALMACÉN ALM02 - Almacén Norte (Trujillo - La Libertad)
+CODIGO     NOMBRE                          STOCK       PRECIO          VALOR
+----------------------------------------------------------------------------
+PROD01     Laptop Lenovo ThinkPad              4      2899.90       11599.60
+PROD03     Monitor Samsung 24"                12       699.00        8388.00
+PROD04     Teclado Mecánico RGB                8       249.90        1999.20
+----------------------------------------------------------------------------
+TOTAL ALMACÉN: S/ 21986.80
+
+VALORACIÓN DEL ALMACÉN ALM03 - Almacén Sur (Arequipa - Cerro Colorado)
+CODIGO     NOMBRE                          STOCK       PRECIO          VALOR
+----------------------------------------------------------------------------
+PROD01     Laptop Lenovo ThinkPad              5      2899.90       14499.50
+----------------------------------------------------------------------------
+TOTAL ALMACÉN: S/ 14499.50
+
+ALERTA DE STOCK MÍNIMO (< 10 unidades globales)
+CODIGO     NOMBRE                          STOCK
+--------------------------------------------------
+PROD04     Teclado Mecánico RGB                8
+

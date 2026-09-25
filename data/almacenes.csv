@@ -1,0 +1,4 @@
+idAlmacen,nombre,ubicacion,stocksCodificados
+ALM01,Almacén Central Lima,Lima - Ate,PROD01:11|PROD02:30
+ALM02,Almacén Norte,Trujillo - La Libertad,PROD03:12|PROD04:8|PROD01:4
+ALM03,Almacén Sur,Arequipa - Cerro Colorado,PROD01:5

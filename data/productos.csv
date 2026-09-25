@@ -1,0 +1,6 @@
+codigo,nombre,categoria,precioUnitario,activo
+PROD01,Laptop Lenovo ThinkPad,Electrónica,2899.90,true
+PROD02,Mouse Inalámbrico Logitech,Accesorios,85.00,true
+PROD03,"Monitor Samsung 24""",Electrónica,699.00,true
+PROD04,Teclado Mecánico RGB,Accesorios,249.90,true
+PROD05,Cable HDMI 2m,Cables,29.90,false
