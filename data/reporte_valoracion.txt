@@ -1,5 +1,5 @@
 REPORTE DE VALORACIÓN DE INVENTARIO MULTIALMACÉN
-Generado: 2026-09-25 14:33:33
+Generado: 2026-09-25 14:47:08
 ========================================================================
 VALORACIÓN TOTAL DEL INVENTARIO GLOBAL
 CODIGO     NOMBRE                          STOCK       PRECIO          VALOR

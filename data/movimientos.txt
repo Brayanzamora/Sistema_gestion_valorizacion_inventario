@@ -1,8 +1,8 @@
 # fechaHora | tipo | producto | cantidad | origen | destino | detalle
-2026-09-25 14:33:33 | ENTRADA | PROD01 | 15 | - | ALM01 | Entrada de stock
-2026-09-25 14:33:33 | ENTRADA | PROD02 | 40 | - | ALM01 | Entrada de stock
-2026-09-25 14:33:33 | ENTRADA | PROD03 | 12 | - | ALM02 | Entrada de stock
-2026-09-25 14:33:33 | ENTRADA | PROD04 | 8 | - | ALM02 | Entrada de stock
-2026-09-25 14:33:33 | ENTRADA | PROD01 | 5 | - | ALM03 | Entrada de stock
-2026-09-25 14:33:33 | SALIDA | PROD02 | 10 | ALM01 | - | Salida de stock
-2026-09-25 14:33:33 | TRANSFERENCIA | PROD01 | 4 | ALM01 | ALM02 | Transferencia multialmacén
+2026-09-25 14:47:08 | ENTRADA | PROD01 | 15 | - | ALM01 | Entrada de stock
+2026-09-25 14:47:08 | ENTRADA | PROD02 | 40 | - | ALM01 | Entrada de stock
+2026-09-25 14:47:08 | ENTRADA | PROD03 | 12 | - | ALM02 | Entrada de stock
+2026-09-25 14:47:08 | ENTRADA | PROD04 | 8 | - | ALM02 | Entrada de stock
+2026-09-25 14:47:08 | ENTRADA | PROD01 | 5 | - | ALM03 | Entrada de stock
+2026-09-25 14:47:08 | SALIDA | PROD02 | 10 | ALM01 | - | Salida de stock
+2026-09-25 14:47:08 | TRANSFERENCIA | PROD01 | 4 | ALM01 | ALM02 | Transferencia multialmacén
