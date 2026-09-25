@@ -1,0 +1,12 @@
+.idea/
+*.iml
+out/
+target/
+*.class
+.classpath
+.project
+.settings/
+*.log
+.tools/
+*.deb
+*.tar.gz
