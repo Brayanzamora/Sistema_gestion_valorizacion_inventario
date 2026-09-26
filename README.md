@@ -50,5 +50,5 @@ java -cp out pe.upn.pc5.app.Main --demo
 
 ## Entregables
 
-- `DIAGRAMA_UML.md` — Diagrama de clases Mermaid
-- `INFORME_TECNICO_PC5.md` — Informe técnico + matriz de trazabilidad
+- `docs/1.diagramas-uml` — Diagrama de clases Mermaid
+- `docs/2.pc-5-informe/PC5_Informe.pdf` — Informe técnico + matriz de trazabilidad
